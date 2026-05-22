@@ -78,7 +78,7 @@ IPL-CRUNCH/
 - **Auto-Created:** Script creates this folder if not present
 - **Files Generated:** 4 professional-quality charts (300 DPI)
 
-#### 'cricket_analysis_charts.png'
+#### `cricket_analysis_charts.png`
 - All charts in one file
 -----
 
