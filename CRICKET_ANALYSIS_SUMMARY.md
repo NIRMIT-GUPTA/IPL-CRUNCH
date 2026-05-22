@@ -5,9 +5,9 @@
 
 ### Answer: **Almost No Advantage**
 
--   **Outcome**   |**Win Rate**|
-- **Toss Winner** |   50.49 %  |
-- **Toss Loser**  |   49.51 %  |
+- |   **Outcome**   |**Win Rate**|
+- | **Toss Winner** |   50.49 %  |
+- | **Toss Loser**  |   49.51 %  |
 
 **Finding:** Winning the toss provides virtually no advantage. The win rates are nearly identical—flipping a coin would be just as predictive. Despite the strategic advantage of choosing to bat or field first, the actual impact on match outcomes is negligible.
 
