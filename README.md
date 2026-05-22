@@ -1,4 +1,4 @@
-# IPL Cricket Analysis: 5-Season Deep Dive
+# IPL Cricket Analysis:
 # BY --- NIRMIT GUPTA
 
 -----
@@ -102,7 +102,7 @@ IPL-CRUNCH/
 - OR GO TO THE REPOSITORY -> ipldata.csv -> FIND LFS DOWNLOAD LINK
 - AND REPLACE THE POINTER FILE (1KB) WITH DATA FILE
 
-# MAKE SURE TO NAME THE DATASET FILE "ipldata.csv" AND PLACE IT IN SAME FOLDER AS THE SCRIPT AND IS ~70 MB
+#### MAKE SURE TO NAME THE DATASET FILE "ipldata.csv" AND PLACE IT IN SAME FOLDER AS THE SCRIPT AND IS ~70 MB
 
 - ls -lh ipldata.csv
 - INCORRECT: Shows ~1 KB or less
@@ -133,12 +133,12 @@ IPL-CRUNCH/
 
 ### Technologies Used
 
-**Python 3.7+**
-**Pandas 1.3.0+**
-**NumPy 1.20.0+**
-**Matplotlib 3.4.0+**
-**Seaborn 0.11.0+**
-**Git Large File Storage (LFS)** - Used: Store 70 MB CSV on GitHub
+- **Python 3.7+**
+- **Pandas 1.3.0+**
+- **NumPy 1.20.0+**
+- **Matplotlib 3.4.0+**
+- **Seaborn 0.11.0+**
+- **Git Large File Storage (LFS)** - Used: Store 70 MB CSV on GitHub
 
 -----
 
